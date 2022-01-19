@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,700&display=swap');
+
+.countries-stats {
+    height: auto;
+    width: 100%;
+    margin-top: -50px;
+}
+
+h2 {
+ 
+    font-weight: 700 !important;
+    font-family: Nunito;
+    margin-top: 80px;
+    text-align: center;
+    font-size: 2rem;
+    
+}
+
+.Filtering {
+    height: 60px;
+    width: 60%;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.Filtering input{
+    height: 76%;
+    width: 70%;
+    padding-left: 25px;
+}
+
+.Filtering .sort-by {
+    height: 77%;
+    width:130px;
+    margin-left: 25px;
+    padding: 0 20px;
+}
